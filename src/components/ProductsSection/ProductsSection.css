@@ -1,0 +1,8 @@
+/* Estilo para la sección de productos */
+.products-section {
+    display: flex; /* Usar flexbox */
+    flex-wrap: wrap; /* Permitir que las tarjetas se envuelvan a la siguiente línea */
+    justify-content: flex-start; /* Alinear las tarjetas de izquierda a derecha */
+    padding: 20px; /* Espaciado interior */
+  }
+  

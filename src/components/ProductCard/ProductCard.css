@@ -1,0 +1,15 @@
+/* Estilo para la tarjeta de producto */
+.product-card {
+  width: 200px; /* Ancho fijo para cada tarjeta */
+  height: 300px; /* Altura fija para cada tarjeta */
+  border: 1px solid #ccc; /* Borde de la tarjeta */
+  border-radius: 5px; /* Bordes redondeados */
+  overflow: hidden; /* Recortar contenido que exceda el tamaño de la tarjeta */
+  margin: 10px; /* Espaciado exterior */
+}
+
+/* Estilo para la imagen del producto */
+.product-card img {
+  width: 100%; /* Ajustar la imagen al ancho de la tarjeta */
+  height: auto; /* Mantener la proporción de aspecto */
+}
